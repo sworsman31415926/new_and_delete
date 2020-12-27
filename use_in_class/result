@@ -1,0 +1,20 @@
+Destruction sequence activated. Planet will be destroyed.0x7ffee2130a78
+minghuadeMacBook-Air:use_in_class minghuafei$ ./a.out
+What planet would you like to learn about? Enter the number corresponding to your choice.
+1 - Mercury
+2 - Venus
+3 - Earth
+4 - Mars
+5 - Jupiter
+6 - Saturn
+7 - Uranus
+8 - Neptune
+
+3
+Planet Name: Earth
+Average Temperature (K): 288
+Average Distance from Star (AU): 1
+Length of Day (Earth days): 1
+Orbital Period (Earth days): 365.256
+Axis Tilt (deg): 23.5
+Intelligent life: yes
